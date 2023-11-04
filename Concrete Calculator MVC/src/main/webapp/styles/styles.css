@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+/* Style for html form */
+input[type="number"] {
+    padding: 7px;
+    border-radius: 12px;
+    border: solid;
+    border-width: 2px;
+    width: 4%;
+    text-align: center;
+}
+input[type="submit"] {
+    padding: 7px;
+    border-radius: 12px;
+    border: solid;
+    border-width: 2px;
+    width: 7%;
+    text-align: center;
+}
+input[type="reset"] {
+    padding: 7px;
+    border-radius: 12px;
+    border: solid;
+    border-width: 2px;
+    width: 7%;
+    text-align: center;
+}
+
+select {
+    padding: 7px;
+    border-radius: 12px;
+    border: solid;
+    border-width: 2px;
+    width: 4%;
+    text-align: center;
+}

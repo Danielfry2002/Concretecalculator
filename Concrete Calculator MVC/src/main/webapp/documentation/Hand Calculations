@@ -1,0 +1,21 @@
+To compute the cost of a Concrete Slab project :
+
+Conversions: 
+
+Feet to yard = Feet / 3
+Inches to yards = Inches / 36
+
+CUBIC YARDS = 
+Width(Yards) X Height(Yards) x Thickness(Yards)
+
+
+CUBIC YARD TO BAGSIZE RATIOS = 50lb: 0.0138  60lb: 0.0167  80lb: 0.022
+
+COST PER BAG = 80lb: $3.75  60lb: $2.83  50lb: $2.45
+
+
+TOTAL COST FORMULA =
+
+(CUBIC YARDS / CUBIC YARD TO BAGSIZE RATIOS) * COST PER BAG
+
+NUMBER OF BAGS FORMULA = (CUBIC YARDS / CUBIC YARD TO BAGSIZE RATIOS)
